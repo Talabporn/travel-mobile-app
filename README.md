@@ -1,4 +1,4 @@
-# colatep
+# colate p
 
 A new Flutter project.
 
@@ -11,16 +11,3 @@ option that may provide a better user experience. In particular, there are not m
 applications that categorize travel destinations based on their locations in Thailand. This serves
 as the motivation and inspiration for creating a location-based category search application by
 the team of developers.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
